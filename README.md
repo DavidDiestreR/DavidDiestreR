@@ -4,6 +4,8 @@
 
 MSc student in **Applied Computational Science and Engineering** at **Imperial College London**.
 
+Bachelor’s degree in **Mathematical and Physical Engineering** from **Universitat Rovira i Virgili (URV)**.
+
 Interested in deep tech, especially AI and frontier physics. Most motivated when building alongside multidisciplinary teams in hackathon-style environments.
 
 <a href="https://www.linkedin.com/in/daviddiestrerubio"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/linkedin-button.svg" alt="LinkedIn" height="28"></a> <a href="mailto:david.diestre.r@gmail.com"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/email-button.svg" alt="Email" height="28"></a>
