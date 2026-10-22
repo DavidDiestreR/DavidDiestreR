@@ -14,11 +14,11 @@ Interested in deep tech, especially AI and frontier physics. Most motivated when
 
 <table width="100%">
 <tr>
-<td width="620" valign="top">
+<td width="480" valign="top">
 <p>Designed readout and Hamiltonian tunability metrics alongside the theory and measurement teams, and built a <strong>modular, scalable Python optimiser</strong>. Ran on MareNostrum 5 using <strong>over 1,700 concurrent CPU cores</strong>.</p>
 <p><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/report-link.svg" alt="Thesis report" height="22"></a> <a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a></p>
 </td>
-<td width="240" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/squid-fluxonium-resonator.png" alt="SQUID-fluxonium qubit coupled to a resonator" width="180"></a></td>
+<td width="380" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/squid-fluxonium-resonator.png" alt="SQUID-fluxonium qubit coupled to a resonator" width="330"></a></td>
 </tr>
 </table>
 
@@ -33,11 +33,11 @@ Interested in deep tech, especially AI and frontier physics. Most motivated when
 
 <table width="100%">
 <tr>
-<td width="620" valign="top">
+<td width="480" valign="top">
 <p>Built Python/RDKit tools to study generalisation and noise robustness of MolForge, a pretrained model that reconstructs molecular structures from fingerprints.</p>
 <p><a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a></p>
 </td>
-<td width="240" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/molforge-figure.jpg" alt="Example molecular structure from the MolForge testing report" width="180"></a></td>
+<td width="380" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/molforge-figure.jpg" alt="Example molecular structure from the MolForge testing report" width="180"></a></td>
 </tr>
 </table>
 
