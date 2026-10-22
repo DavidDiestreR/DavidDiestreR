@@ -55,12 +55,12 @@ Also: SciPy · RDKit · Slurm
 
 Co-founder of an edtech startup for story-driven physics learning. Currently building a **digital MVP**, informed by pilots in **three schools**.
 
-- **EUR 4,000 entrepreneurship grant** from Universitat Rovira i Virgili’s Social Council. [📰](https://diaridigital.urv.cat/el-consell-social-de-la-urv-premia-les-idees-emprenedores-mes-innovadores/)
-- **iFest 2024 winner**, a Catalonia-wide competition with 120 senior-category entries. The prize included a one-week acceleration programme in Lisbon with Impact Hub Barcelona and Lisbon. [📰](https://xarxaempren.gencat.cat/ca/detalls/noticia/noticia-emprenedoria-177)
+- **EUR 4,000 entrepreneurship grant** from Universitat Rovira i Virgili’s Social Council. [📰 ↗](https://diaridigital.urv.cat/el-consell-social-de-la-urv-premia-les-idees-emprenedores-mes-innovadores/)
+- **iFest 2024 winner**, a Catalonia-wide competition with 120 senior-category entries. The prize included a one-week acceleration programme in Lisbon with Impact Hub Barcelona and Lisbon. [📰 ↗](https://xarxaempren.gencat.cat/ca/detalls/noticia/noticia-emprenedoria-177)
 
 ## Academic awards
 
-- **Santander Excellence 360° Scholar (2025)** — selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. [📰](https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/)
+- **Santander Excellence 360° Scholar (2025)** — selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. [📰 ↗](https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/)
 - **Best Academic Record Award (2026)** — School of Engineering (**ETSE**), Universitat Rovira i Virgili; Caixa Enginyers award.
 
 <img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/msc-thesis-placements.svg" alt="MSc thesis placements: full-time from 24 May 2027, if integrated with the MSc thesis." width="630">
