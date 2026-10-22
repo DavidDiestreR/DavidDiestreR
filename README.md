@@ -20,7 +20,9 @@
 
 ## Selected work
 
-### ⭐ Superconducting qubit optimisation · Qilimanjaro Quantum Tech
+<img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/featured-project.svg" alt="Featured project: Bachelor’s thesis" height="28">
+
+### Superconducting qubit optimisation · Qilimanjaro Quantum Tech
 
 <table width="100%">
 <tr>
