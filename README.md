@@ -9,11 +9,13 @@ Interested in deep tech, especially AI and frontier physics. Most motivated when
 - **Superconducting qubit optimisation · Qilimanjaro**  
   Designed readout and tunability metrics and a modular, scalable Python optimiser. Ran on MareNostrum 5 using **over 1,700 concurrent CPU cores**. **[Thesis report](https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf)** · [Code](https://github.com/DavidDiestreR/TFG-David-Diestre-public)
 
-- **[Molecular reconstruction · Seeslab](https://github.com/DavidDiestreR/MolForge_Testing)**  
-  Python/RDKit workflow for studying the generalisation and noise robustness of the pretrained MolForge model.
+- **Molecular reconstruction · Seeslab**  
+  Python/RDKit workflow for studying the generalisation and noise robustness of the pretrained MolForge model.  
+  [<ins>Code</ins>](https://github.com/DavidDiestreR/MolForge_Testing)
 
-- **[Custom AutoML regressor](https://github.com/DavidDiestreR/AutoML-AdvancedML) · Course project**  
-  Simulated annealing for model selection and tuning across four regression families.
+- **Custom AutoML regressor · Course project**  
+  Simulated annealing for model selection and tuning across four regression families.  
+  [<ins>Code</ins>](https://github.com/DavidDiestreR/AutoML-AdvancedML)
 
 ## Physics Stars
 
