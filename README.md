@@ -4,7 +4,9 @@
 
 MSc student in **Applied Computational Science and Engineering** at **Imperial College London**.
 
-Bachelor’s degree in **Mathematical and Physical Engineering** from **Universitat Rovira i Virgili (URV)**.
+Bachelor’s degree in **Mathematical and Physical Engineering** from **Universitat Rovira i Virgili (URV)** — **9.36/10**, with **21 course distinctions (Matrícula de Honor)**.
+
+Erasmus exchange focused on **machine learning** at **Central European University, Vienna**.
 
 Interested in deep tech, especially AI and frontier physics. Most motivated when building alongside multidisciplinary teams in hackathon-style environments.
 
