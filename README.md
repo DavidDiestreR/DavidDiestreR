@@ -27,7 +27,7 @@
 <table width="100%">
 <tr>
 <td width="56%" valign="top">
-<p>Designed readout and Hamiltonian tunability metrics alongside the theory and measurement teams, and built a <strong>modular, scalable Python optimiser</strong>. Ran on MareNostrum 5 using <strong>over 1,700 concurrent CPU cores</strong>.</p>
+<p>Designed readout and Hamiltonian tunability metrics alongside the theory and measurement teams, and built a <strong>modular, scalable Python optimiser</strong>. Executed the optimisation on MareNostrum 5, the Barcelona Supercomputing Center’s supercomputer, using <strong>over 1,700 concurrent CPU cores</strong>.</p>
 <p><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/report-link.svg" alt="Thesis report" height="22"></a> <a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a></p>
 </td>
 <td width="44%" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/squid-fluxonium-resonator.png" alt="SQUID-fluxonium qubit coupled to a resonator" width="87%"></a></td>
