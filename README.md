@@ -13,19 +13,14 @@
 
 ### ⚛️ Interests
 
-**Deep tech, especially AI and frontier physics.**
-
+**Deep tech, especially AI and frontier physics.**  
 🤝 Most motivated when building alongside **multidisciplinary teams** in **hackathon-style environments**.
-
-<br>
 
 <p><a href="https://www.linkedin.com/in/daviddiestrerubio"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/linkedin-button.svg" alt="LinkedIn" height="28"></a> &nbsp;&nbsp; <a href="mailto:david.diestre.r@gmail.com"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/email-button.svg" alt="Email" height="28"></a></p>
 
-<br>
-
 ## Selected work
 
-### Superconducting qubit optimisation · Qilimanjaro Quantum Tech <img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/featured-project.svg" alt="Featured project: Bachelor’s thesis" height="20">
+### ⭐ Superconducting qubit optimisation · Qilimanjaro Quantum Tech
 
 <table width="100%">
 <tr>
