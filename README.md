@@ -41,7 +41,7 @@ Interested in deep tech, especially AI and frontier physics. Most motivated when
 </tr>
 </table>
 
-### Custom AutoML regressor · Course project
+### Custom AutoML regressor · Central European University course project
 
 Simulated annealing for model selection and tuning across four regression families. <a href="https://github.com/DavidDiestreR/AutoML-AdvancedML"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a>
 
