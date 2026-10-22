@@ -10,18 +10,18 @@ Interested in deep tech, especially AI and frontier physics. Most motivated when
 
 ## Selected work
 
-### Superconducting qubit optimisation · Qilimanjaro
+### ⭐ Superconducting qubit optimisation · Qilimanjaro Quantum Tech
 
 <table>
 <tr>
-<td width="74%">
+<td width="78%">
 Designed readout and Hamiltonian tunability metrics alongside the theory and measurement teams, and built a <strong>modular, scalable Python optimiser</strong>. Ran on MareNostrum 5 using <strong>over 1,700 concurrent CPU cores</strong>.
 
 <br><br>
 
 <a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/report-link.svg" alt="Thesis report" height="22"></a> <a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a>
 </td>
-<td width="26%" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/SQUID_fluxonium_circuit.png" alt="SQUID fluxonium circuit schematic" width="190"></a></td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/TFG-David-Diestre-public/blob/main/report.pdf"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/SQUID_fluxonium_circuit.png" alt="SQUID fluxonium circuit schematic" width="150"></a></td>
 </tr>
 </table>
 
@@ -37,7 +37,11 @@ Designed readout and Hamiltonian tunability metrics alongside the theory and mea
 <table>
 <tr>
 <td width="78%">
-Python/RDKit tools to study generalisation and noise robustness of the pretrained MolForge model. <a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a>
+Python/RDKit tools to study generalisation and noise robustness of the pretrained MolForge model.
+
+<br><br>
+
+<a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a>
 </td>
 <td width="22%" align="center"><a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/molforge-figure.jpg" alt="Example molecular structure from the MolForge testing report" width="150"></a></td>
 </tr>
@@ -57,12 +61,12 @@ Also: SciPy · RDKit · Slurm
 
 Co-founder of an edtech startup for story-driven physics learning. Currently building a **digital MVP**, informed by pilots in **three schools**.
 
-- **EUR 4,000 entrepreneurship grant** from Universitat Rovira i Virgili’s Social Council. [Award](https://diaridigital.urv.cat/el-consell-social-de-la-urv-premia-les-idees-emprenedores-mes-innovadores/).
-- **iFest 2024 winner**, a Catalonia-wide competition with 120 senior-category entries. The prize included a one-week acceleration programme in Lisbon with Impact Hub Barcelona and Lisbon. [iFest](https://xarxaempren.gencat.cat/ca/detalls/noticia/noticia-emprenedoria-177).
+- **EUR 4,000 entrepreneurship grant** from Universitat Rovira i Virgili’s Social Council. <a href="https://diaridigital.urv.cat/el-consell-social-de-la-urv-premia-les-idees-emprenedores-mes-innovadores/" title="Read award news article"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/news-link.svg" alt="Read news article" height="22"></a>
+- **iFest 2024 winner**, a Catalonia-wide competition with 120 senior-category entries. The prize included a one-week acceleration programme in Lisbon with Impact Hub Barcelona and Lisbon. <a href="https://xarxaempren.gencat.cat/ca/detalls/noticia/noticia-emprenedoria-177" title="Read iFest news article"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/news-link.svg" alt="Read news article" height="22"></a>
 
 ## Academic awards
 
-- **Santander Excellence 360° Scholar (2025)** — selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. [University announcement](https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/).
+- **Santander Excellence 360° Scholar (2025)** — selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. <a href="https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/" title="Read university news article"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/news-link.svg" alt="Read news article" height="22"></a>
 - **Best Academic Record Award (2026)** — School of Engineering (**ETSE**), Universitat Rovira i Virgili; Caixa Enginyers award.
 
-**MSc thesis placements:** full-time from 24 May 2027, if integrated with the MSc thesis.
+<img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/msc-thesis-placements.svg" alt="MSc thesis placements: full-time from 24 May 2027, if integrated with the MSc thesis." width="630">
