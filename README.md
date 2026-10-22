@@ -2,13 +2,19 @@
 
 # David Diestre Rubio
 
-MSc student in **Applied Computational Science and Engineering** at **Imperial College London**.
+### 🎓 Education
 
-Bachelor’s degree in **Mathematical and Physical Engineering** from **Universitat Rovira i Virgili (URV)** — **9.36/10**, with **21 course distinctions (Matrícula de Honor)**.
+- **Imperial College London**  
+  MSc in Applied Computational Science and Engineering.
 
-Erasmus exchange focused on **machine learning** at **Central European University, Vienna**.
+- **Universitat Rovira i Virgili (URV)**  
+  BSc in Mathematical and Physical Engineering · **9.36/10** · **21 course distinctions (Matrícula de Honor)**.  
+  Including an Erasmus exchange focused on **machine learning** at **Central European University, Vienna**.
 
-Interested in deep tech, especially AI and frontier physics. Most motivated when building alongside multidisciplinary teams in hackathon-style environments.
+### ⚛️ Interests
+
+> **Deep tech, especially AI and frontier physics.**  
+> 🤝 Most motivated when building alongside multidisciplinary teams in hackathon-style environments.
 
 <a href="https://www.linkedin.com/in/daviddiestrerubio"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/linkedin-button.svg" alt="LinkedIn" height="28"></a> <a href="mailto:david.diestre.r@gmail.com"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/email-button.svg" alt="Email" height="28"></a>
 
@@ -64,7 +70,7 @@ Co-founder of an edtech startup for story-driven physics learning. Currently bui
 
 ## Academic awards
 
-- **Santander Excellence 360° Scholar (2025)** — selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. [📰 ↗](https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/)
-- **Best Academic Record Award (2026)** — School of Engineering (**ETSE**), Universitat Rovira i Virgili; Caixa Enginyers award.
+- **Santander Excellence 360° Scholar (2025)** · selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. [📰 ↗](https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/)
+- **Best Academic Record Award (2026)** · School of Engineering (**ETSE**), Universitat Rovira i Virgili; Caixa Enginyers award.
 
 **MSc thesis placements:** full-time from 24 May 2027, if integrated with the MSc thesis.
