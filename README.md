@@ -67,7 +67,7 @@ Also: SciPy · RDKit · Slurm
 
 ## Physics Stars
 
-Co-founder of an edtech startup for story-driven physics learning. Currently building a **digital MVP**, informed by pilots in **three schools**.
+**Physics Stars is an edtech startup** bringing physics to life through stories. As co-founder, currently building a **digital MVP**, informed by pilots in **three schools**.
 
 - **EUR 4,000 entrepreneurship grant** from Universitat Rovira i Virgili’s Social Council. [📰 ↗](https://diaridigital.urv.cat/el-consell-social-de-la-urv-premia-les-idees-emprenedores-mes-innovadores/)
 - **iFest 2024 winner**, a Catalonia-wide competition with 120 senior-category entries. The prize included a one-week acceleration programme in Lisbon with Impact Hub Barcelona and Lisbon. [📰 ↗](https://xarxaempren.gencat.cat/ca/detalls/noticia/noticia-emprenedoria-177)
