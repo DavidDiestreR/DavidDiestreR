@@ -67,4 +67,4 @@ Co-founder of an edtech startup for story-driven physics learning. Currently bui
 - **Santander Excellence 360° Scholar (2025)** — selected as **Universitat Rovira i Virgili’s top student**; EUR 12,000 scholarship, one of 77 awards across Spain. [📰 ↗](https://diaridigital.urv.cat/david-diestre-guanya-la-beca-santander-excellencia-360o/)
 - **Best Academic Record Award (2026)** — School of Engineering (**ETSE**), Universitat Rovira i Virgili; Caixa Enginyers award.
 
-<img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/msc-thesis-placements.svg" alt="MSc thesis placements: full-time from 24 May 2027, if integrated with the MSc thesis." width="630">
+**MSc thesis placements:** full-time from 24 May 2027, if integrated with the MSc thesis.
