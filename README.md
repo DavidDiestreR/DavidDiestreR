@@ -34,7 +34,7 @@ Interested in deep tech, especially AI and frontier physics. Most motivated when
 <table width="100%">
 <tr>
 <td width="620" valign="top">
-<p>Python/RDKit tools to study generalisation and noise robustness of the pretrained MolForge model.</p>
+<p>Built Python/RDKit tools to study generalisation and noise robustness of MolForge, a pretrained model that reconstructs molecular structures from fingerprints.</p>
 <p><a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/code-link.svg" alt="Code" height="22"></a></p>
 </td>
 <td width="240" align="center" valign="middle"><a href="https://github.com/DavidDiestreR/MolForge_Testing"><img src="https://raw.githubusercontent.com/DavidDiestreR/DavidDiestreR/main/assets/molforge-figure.jpg" alt="Example molecular structure from the MolForge testing report" width="180"></a></td>
